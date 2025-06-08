@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/TiotBenjy/craftserv-bot#readme",
   "devDependencies": {
-    "typescript": "^5.8.3"
+    "typescript": "^5.8.3",
+    "@types/node": "^16.18.126"
   }
 }
